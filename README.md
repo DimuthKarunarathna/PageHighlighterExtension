@@ -13,8 +13,8 @@ A simple but powerful Chrome extension that allows you to highlight text on any 
 
 ## Demo
 
-<video src="demo/demo.mp4" width="100%" controls autoplay muted loop>
-  Your browser does not support the video tag. You can <a href="demo/demo.mp4">download the video here</a>.
+<video src="https://raw.githubusercontent.com/DimuthKarunarathna/PageHighlighterExtension/main/demo/demo.mp4" width="100%" controls autoplay muted loop>
+  Your browser does not support the video tag. You can <a href="https://raw.githubusercontent.com/DimuthKarunarathna/PageHighlighterExtension/main/demo/demo.mp4">download the video here</a>.
 </video>
 
 ## How to Install and Use
